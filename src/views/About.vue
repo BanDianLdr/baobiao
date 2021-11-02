@@ -4,7 +4,6 @@
       <div class="title_left">
         <span>VR 开发智能实训平台</span>
       </div>
-
       <div class="title_right">
         <span>李老师，您好</span>
         <span>时间</span>
@@ -14,19 +13,16 @@
     <div class="con_box">
       <div class="con_left">
         <ul>
-          <li><router-link to="/about/"  class="sy">系统首页</router-link></li>
-          <li><router-link to="/about/jbxx"  class="sy">基本信息</router-link></li>
-          <li><router-link to="/about/kcgl"  class="sy">课程管理</router-link></li>
-          
+          <li><router-link to="/about/kcgl"  class="sy">购物车</router-link></li>
+          <li><router-link to="/about/jbxx"  class="sy">Todo</router-link></li>
+          <li><router-link to="/about/"  class="sy">首页</router-link></li>
         </ul>
       </div>
           <router-view />
     </div>
-
   </div>
 </template>
 <script>
-  
 </script>
 <style lang="scss">
 ul,li{

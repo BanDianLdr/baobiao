@@ -9,7 +9,7 @@
       <div class="con_con">
         <div class="con_con_top">
           <div class="top_left">
-            <div class="tu"><img src="../../assets/1.png" alt="" /></div>
+            <div class="tu"><img src="../../assets/logo.png" alt="" /></div>
             <div class="zi">
               <p>登录账号：1436251959</p>
               <p>姓名：111</p>
